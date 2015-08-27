@@ -1,0 +1,4 @@
+C:\Users\glaziele\Glaziele\GITHUB\Estudos\agendacontatos\agendacontatos\bin\Debug\agendacontatos.exe
+C:\Users\glaziele\Glaziele\GITHUB\Estudos\agendacontatos\agendacontatos\bin\Debug\agendacontatos.pdb
+C:\Users\glaziele\Glaziele\GITHUB\Estudos\agendacontatos\agendacontatos\obj\x86\Debug\agendacontatos.exe
+C:\Users\glaziele\Glaziele\GITHUB\Estudos\agendacontatos\agendacontatos\obj\x86\Debug\agendacontatos.pdb
